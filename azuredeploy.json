@@ -225,7 +225,7 @@
               "destinationPortRange": "3389",
               "sourceAddressPrefix": "*",
               "destinationAddressPrefix": "*",
-              "access": "Allow",
+              "access": "Deny",
               "priority": 130,
               "direction": "Inbound"
             }
